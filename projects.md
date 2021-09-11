@@ -13,6 +13,5 @@ page_sections:
     headline: Headline 2
     slug: ''
     content: ''
-published: false
 
 ---
